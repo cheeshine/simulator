@@ -1,0 +1,21 @@
+{
+  "action": "rotation/manual",
+  "data": {
+    "sensor": {
+      "blueprintId": "sensor.camera.rgb",
+      "position": {"x": 0, "y": 0, "z": 2},
+      "rotation": {"pitch": 0, "yaw": 0, "roll": 0}
+    },
+    "vehicle": {
+      "blueprintId": "vehicle.lincoln.mkz_2020",
+      "position": {"x": -84.9, "y": 16.5, "z": 2},
+      "rotation": {"pitch": 0, "yaw": 0, "roll": 0}
+    },
+    "vehicleSteer": 45,
+    "sensorsNum": 3,
+    "vehiclesNum": 3,
+    "vehicleBlueprints": [],
+    "vehicleYawRange": {"down": 1, "up": 3, "step": 1},
+    "vehicleSteerRange": {"down": 1, "up": 3, "step": 1}
+  }
+}

@@ -2,9 +2,11 @@ import os
 import weakref
 
 import carla
-
+carla.AttachmentType.SpringArm
 from . import NewVehicleParameters, NewSensorParameters, NewVehicleControlParameters
 
+
+camera = world.spawn_actor(camera_bp, relative_transform, attach_to=my_vehicle, carla.AttachmentType.Rigid)
 
 class VehicleManager:
     def __init__(self, world: carla.World):

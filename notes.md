@@ -1,3 +1,8 @@
-1. 镜头控制
-2. 打印当前镜头位置
-3. 
+1. [在线GIF压缩-快改图 (kuaigaitu.com)](https://www.kuaigaitu.com/gif/compress)
+2. [GIF压缩，动图压缩 (tuhaokuai.com)](https://www.tuhaokuai.com/gif?from=startOver)
+3. [免费在线图片/视频压缩工具 | 图片压缩 | 免费 JPG PNG GIF 图像压缩 (yalijuda.com)](http://www.yalijuda.com/)
+4. [图片压缩 - 在线免费图片压缩软件-迅捷压缩在线 (xunjiepdf.com)](https://yasuo.xunjiepdf.com/img/)
+5. [js图片编辑器插件Filerobot-HTML源码网 (uihtm.com)](https://www.uihtm.com/preview/9914.html)       [js图片编辑器插件Filerobot-HTML源码网 (uihtm.com)](https://www.uihtm.com/jquery/9914.html)
+6. [GIF合成-动图合成-图片合成-gif.cn_GIF中文网](https://www.gif.cn/tools)
+7. [在线GIF动图压缩 - docsmall 在线GIF动图压缩工具,在线GIF动图压缩软件](https://docsmall.com/gif-compress)
+8. [GIF压缩 在线GIF压缩工具 手机GIF压缩-度度网 (topdodo.com)](https://www.topdodo.com/gif)
